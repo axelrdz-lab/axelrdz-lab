@@ -29,3 +29,23 @@
   <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032" />
 
 </div>
+
+
+
+<div align="center">
+  <h2>about me</h2>  
+  I'm a developer who loves to design. I enjoy every single part of the building process, from the first sketch to the final deploy. I care about clean architecture, intuitive interfaces, and software that fits the context it lives in.
+  <br><br>
+** A few things about me **
+  <br>
+I live for the music, i listen to it while cooking, coding, drawing, thinking. I also play piano and I'm learning music production. <br>
+Big DC Comics fan, slowly growing a collection.
+
+</div>
+
+
+
+<div align="center">
+  <h4>thanks for stopping by!</h4>  
+  <img src="https://komarev.com/ghpvc/?username=axelrdz-lab&style=for-the-badge&color=54538d&label=PROFILE+VIEWS" />
+</div>
