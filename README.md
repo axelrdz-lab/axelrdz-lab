@@ -5,7 +5,7 @@
   />
   <h1>Hello, I'm Axel Rodríguez◝(^⌣^)◜</h1>
   <p>
-    <strong>IT Engineering Graduate from México</strong><br/>
+    <strong>IT Engineering from México</strong><br/>
     Frontend Developer • Mobile • UI/UX
   </p>
   <!-- 
